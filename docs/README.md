@@ -278,4 +278,4 @@ D_крит = 1.36 / √n
 
 **Локтеев Илья Дмитриевич**
 - Группа: ПМИ-122
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: https://github.com/hikaruxgod
